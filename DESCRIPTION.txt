@@ -1,0 +1,31 @@
+COMPANY :  AL Arab real Estate
+PROJECT HEAD : Suraj Singh Chauhan & Shivani Balyan
+-------------------------------------------------------------------------------
+
+PROBLEM STATEMENT :
+  1) We are given dataset of house prices with some features like number of bathrooms , number of bedrooms etc.
+  2) Our task is to create a model which will predict the price for any house by looking at the features.
+-------------------------------------------------------------------------------
+QUESTIONS TO BE RAISE FROM COMPANY:
+  1) What is the main motto  of the program or say project .
+  2) We should ask all the questions required to make a near perfect ML project .
+  3) Outputs should be discussed with company , means what type of output they want .
+--------------------------------------------------------------------------------
+ALGORITHM GOING TO USE :
+  1) WE will use SUPERVISED LEARNING.
+  2) And task will be REGRESSIVE And we will check which method of ML is better for our problem.
+  3) And BATCH LEARNING will be used
+--------------------------------------------------------------------------------
+PERFORMANCE MEASURE TO BE USED :
+  ----> RMSE (Root mean square error).
+  ----> MSE
+--------------------------------------------------------------------------------
+TOOLS USED :
+  --> Jupyter notebook
+  --> Pycharm
+      -> Sklearn
+      -> Pandas
+      -> Numpy
+      -> Tkinter
+--------------------------------------------------------------------------------
+
